@@ -46,7 +46,7 @@
 
 ###### 
 
-###### 8\. Gartner (2025). Generative AI is Redefining the Role of 
+###### 8\. Gartner (2025). Generative AI is Redefining the Role of
 
 ###### &#x20;  Software Engineering Leaders.
 
@@ -64,7 +64,31 @@
 
 ###### &#x20;   https://brainhub.eu/library/software-developer-age-of-ai
 
+###### 
 
+###### 11\. Abrahão, S., Grundy, J., Pezzè, M., Storey, M. A., \& Tamburri, D. A.(2025). Software Engineering by and for Humans in an AI Era.
 
+###### &#x20;   ACM Transactions on Software Engineering and Methodology, 34(5), 1-46.
 
+###### 
+
+###### 12\. Hamza, M., Siemon, D., Akbar, M. A., \& Rahman, T. (2024, April). Human-AI collaboration in software engineering: Lessons learned from a hands-on workshop. In Proceedings of the 7th ACM/IEEE International Workshop on Software-intensive Business (pp. 7-14).
+
+###### 
+
+###### 13\. Manojkumar, R., Reddy, C. K., Prashanth, M., Seshukumari, B. V., \& Dutta, A. (2026). Rethinking Software Engineering Skills in the Age of AI. In AI Impacts on Deskilling and Reskilling Software Engineers (pp. 179-212). IGI Global Scientific Publishing.
+
+###### 
+
+###### 14\. Muthukumar, M., Sitharaj, A., Mohana Sundaram, M., \& Dhananjeiyan, B. (2026). The AI-powered soft skills renaissance: cultivating human
+
+###### &#x20;   abilities in the digital era. AI and Ethics, 6(1), 42.
+
+###### 
+
+###### 15\. Smuts, S., \& Smuts, H. (2022). Society 5.0 and the future of work skills for software engineers and developers.
+
+###### 
+
+###### 
 
